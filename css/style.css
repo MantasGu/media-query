@@ -52,10 +52,19 @@ article {
 @media (max-width: 1200px) {
   .main-content,
   .side-content {
-    width: 100%;
+    width: 80%;
+  }
+
+  .side-article,
+  .main-article {
+    margin-top: 10px;
   }
 
   main {
+    justify-self: center;
     flex-direction: column;
+  }
+  article {
+    margin: 0px;
   }
 }
