@@ -44,10 +44,6 @@ article {
   padding: 1rem;
 }
 
-.side-article h2,
-.side-article p {
-  margin: 1em 0;
-}
 .side-content .side-article > img {
   width: 100%;
   height: 20%;
